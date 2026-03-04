@@ -9,4 +9,6 @@ Me chamo Yasmim e sou aluna do 2° ano I do curso de Desenvolvimento de Sistemas
 - CSS
 - HTML
 - Java
-![Uploading image.png…]()
+
+
+<img src="https://pngimg.com/d/cat_PNG106.png" width="120" height="120"/>
