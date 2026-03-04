@@ -1,6 +1,10 @@
-# Eu sou o Aluno X
-Sou aluno do 2° ano I do curso de Desenvolvimento de Sistemas no CEEP PG
+# Eu sou a Yas !
+##Sou aluna do 2° ano I do curso de Desenvolvimento de Sistemas no CEEP PG
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bazel/bazel-plain.svg" />
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<i class="devicon-bazel-plain"></i>
+          
 
 ### Programação em:
 - C
