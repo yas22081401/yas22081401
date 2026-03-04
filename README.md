@@ -4,7 +4,6 @@ Me chamo Yasmim e sou aluna do 2° ano I do curso de Desenvolvimento de Sistemas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gleam/gleam-original.svg" width="40" height="40"/>
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />       
 <i class="devicon-gleam-plain"></i>
-![Minha Imagem](https://freepngimg.com/thumb/cat/7-2-cat-png-4.png)
 
 ### Programação em:
 - C
